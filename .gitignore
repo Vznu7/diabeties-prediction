@@ -1,0 +1,25 @@
+# Environment variables
+.env
+
+# Model files (will be regenerated)
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
